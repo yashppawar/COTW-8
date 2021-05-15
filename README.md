@@ -1,5 +1,5 @@
 # COTW 8 🎉🎉🎉🎉🎉🎉🎉🎉
-![COTW-image](https://community-intel.s3.ap-southeast-1.amazonaws.com/1620592355120.png)
+![COTW-image](https://raw.githubusercontent.com/yashppawar/COTW-8/main/assets/cotw.png)
 
 # Solution for [8th Challenge of the Week](https://aistudent.community/single_event/71) by [AISC](https://aistudent.community/)
 
